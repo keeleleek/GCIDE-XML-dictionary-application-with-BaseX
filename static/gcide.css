@@ -1,0 +1,390 @@
+a {
+  color: black;
+	text-decoration: none;
+}
+
+p {
+	margin-bottom: 2.5em;
+}
+
+it {
+	font-style: italic;
+}
+
+i {
+	font-style: italic;
+}
+
+ant {
+	font-style: italic;
+}
+
+asp {
+	font-style: italic;
+}
+
+au {
+	font-style: italic;
+}
+
+booki {
+	font-style: italic;
+}
+
+causes {
+	font-style: italic;
+}
+
+causesp {
+	font-style: italic;
+}
+
+causedbyp {
+	font-style: italic;
+}
+
+causedby {
+	font-style: italic;
+}
+
+cnvto {
+	font-style: italic;
+}
+
+compof {
+	font-style: italic;
+}
+
+contr {
+	font-style: italic;
+}
+
+cref {
+	font-style: italic;
+}
+
+film {
+	font-style: italic;
+}
+
+fld {
+	font-style: italic;
+}
+
+itran {
+	font-style: italic;
+}
+
+itrans {
+	font-style: italic;
+}
+
+qau {
+	font-style: italic;
+}
+
+abbr {
+	font-style: italic;
+}
+
+altname {
+	font-style: italic;
+}
+
+altnpluf {
+	font-style: italic;
+}
+
+ets {
+	font-style: italic;
+}
+
+etsep {
+	font-style: italic;
+}
+
+ex {
+	font-style: italic;
+}
+
+mark {
+	font-style: italic;
+}
+
+markp {
+	font-style: italic;
+}
+
+pos {
+	font-style: italic;
+}
+
+qau {
+	font-style: italic;
+}
+
+qex {
+	font-style: italic;
+}
+
+sd {
+	font-style: italic;
+}
+
+ship {
+	font-style: italic;
+}
+
+source {
+	font-style: italic;
+}
+
+pluf {
+	font-style: italic;
+}
+
+uex {
+	font-style: italic;
+}
+
+isa {
+	font-style: italic;
+}
+
+mathex {
+	font-style: italic;
+}
+
+ratio {
+	font-style: italic;
+}
+
+singf {
+	font-style: italic;
+}
+
+xlati {
+	font-style: italic;
+}
+
+tran {
+	font-style: italic;
+}
+
+tr {
+	font-style: italic;
+}
+
+iref {
+	font-style: italic;
+}
+
+figref {
+	font-style: italic;
+}
+
+ptcl {
+	font-style: italic;
+}
+
+title {
+	font-style: italic;
+}
+
+stype {
+	font-style: italic;
+}
+
+part {
+	font-style: italic;
+}
+
+parts {
+	font-style: italic;
+}
+
+membof {
+	font-style: italic;
+}
+
+member {
+	font-style: italic;
+}
+
+members {
+	font-style: italic;
+}
+
+corr {
+	font-style: italic;
+}
+
+qperson {
+	font-style: italic;
+}
+
+prod {
+	font-style: italic;
+}
+
+prodmac {
+	font-style: italic;
+}
+
+stage {
+	font-style: italic;
+}
+
+inv {
+	font-style: italic;
+}
+
+methodfor {
+	font-style: italic;
+}
+
+examp {
+	font-style: italic;
+}
+
+stage {
+	font-style: italic;
+}
+
+unit {
+	font-style: italic;
+}
+
+uses {
+	font-style: italic;
+}
+
+usedby {
+	font-style: italic;
+}
+
+perf {
+	font-style: italic;
+}
+
+recipr {
+	font-style: italic;
+}
+
+sig {
+	font-style: italic;
+}
+
+wns {
+	font-style: italic;
+}
+
+w16ns {
+	font-style: italic;
+}
+
+spn {
+	font-style: italic;
+}
+
+kingdom {
+	font-style: italic;
+}
+
+phylum {
+	font-style: italic;
+}
+
+subphylum {
+	font-style: italic;
+}
+
+class {
+	font-style: italic;
+}
+
+subclass {
+	font-style: italic;
+}
+
+ord {
+	font-style: italic;
+}
+
+subord {
+	font-style: italic;
+}
+
+suborder {
+	font-style: italic;
+}
+
+fam {
+	font-style: italic;
+}
+
+subfam {
+	font-style: italic;
+}
+
+gen {
+	font-style: italic;
+}
+
+var {
+	font-style: italic;
+}
+
+varn {
+	font-style: italic;
+}
+
+bold {
+	font-style: bold;
+}
+
+b {
+	font-style: bold;
+}
+
+colf {
+	font-style: bold;
+}
+
+ct {
+	font-style: bold;
+}
+
+universbold {
+	font-style: bold;
+}
+
+boldfacetype {
+	font-style: bold;
+}
+
+col {
+	font-style: bold;
+}
+
+hw {
+	font-style: bold;
+}
+
+sn {
+	font-style: bold;
+}
+
+wf {
+	font-style: bold;
+}
+
+stypec {
+  	font-weight: bold;
+}
+
+ent {
+	display: block;
+	font-weight: bold;
+	font-size: larger;
+}
